@@ -171,7 +171,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #E27689;
+			color: #3519b4;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -1847,7 +1847,7 @@ ul.icons {
 			}
 
 			ul.labeled-icons li a {
-				color: inherit;
+				color: blue;
 			}
 
 			ul.labeled-icons li h3 {
@@ -2117,7 +2117,7 @@ ul.icons {
 			}
 
 				#header .icons a:hover {
-					color: #fff;
+					color: #3519b4;
 				}
 
 	#logo {
@@ -2195,7 +2195,7 @@ ul.icons {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #3519b4;
 					}
 
 /* Footer */
@@ -2240,7 +2240,7 @@ ul.icons {
 			padding: 4em 0;
 			box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
 			text-align: center;
-			background-image: url("images/overlay.png");
+			background-image: url("images/BackgroundImage.jpg");
 		}
 
 			#main > section.dark {
@@ -2274,7 +2274,7 @@ ul.icons {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/BackgroundImage.jpg");
 			}
 
 			#main > section.two {
